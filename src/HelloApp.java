@@ -6,6 +6,7 @@ public class HelloApp {
 		System.out.println("Release 1 App...");
 		
 		System.out.println("Test App file Created...");
+		System.out.println("F1 Commit change...");
 	}
 
 }
