@@ -12,6 +12,8 @@ public class HelloApp {
 		System.out.println("D2 Commit...");
 		System.out.println("F2 Commit change...");
 
+		System.out.println("F3 Commit change...");
+
 	}
 
 }
