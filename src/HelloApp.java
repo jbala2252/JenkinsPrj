@@ -13,11 +13,10 @@ public class HelloApp {
 		System.out.println("F2 Commit change...");
 		
 		System.out.println("D3 Commit...");
-
 		System.out.println("F3 Commit change...");
 
-		System.out.println("F3 Commit change...");
 		System.out.println("D4 Commit change...");
+		System.out.println("F4 Commit change...");
 
 	}
 
