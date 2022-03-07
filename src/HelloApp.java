@@ -18,10 +18,9 @@ public class HelloApp {
 
 		System.out.println("D4 Commit change...");
 		System.out.println("F4 Commit change...");
-		
 
 		System.out.println("D5 Commit change...");
-		//f5 123
+		//f5 1234
 
 	}
 
