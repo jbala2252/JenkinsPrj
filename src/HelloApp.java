@@ -6,6 +6,7 @@ public class HelloApp {
 		System.out.println("Release 1 App...");
 		
 		System.out.println("Test App file Created...");
+
 		System.out.println("D1 Commit...");
 		System.out.println("F1 Commit change...");
 
@@ -17,6 +18,10 @@ public class HelloApp {
 
 		System.out.println("D4 Commit change...");
 		System.out.println("F4 Commit change...");
+		
+
+		System.out.println("D5 Commit change...");
+		//f5 123
 
 	}
 
